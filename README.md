@@ -12,3 +12,6 @@ Magic File Number:
 
 
 Disclaim: infratec and IRBIS are registered Trademarks. I do not have any connections to infratec and this is just a hobby project.
+
+# Java-Version
+You can find a JAVA-Port at https://github.com/jonathanschilling/irb
