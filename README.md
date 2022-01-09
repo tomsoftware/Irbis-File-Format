@@ -13,5 +13,11 @@ Magic File Number:
 
 Disclaim: infratec and IRBIS are registered Trademarks. I do not have any connections to infratec and this is just a hobby project.
 
+## Absolute temperatures 
+Be very careful if you want to measure absolute temperatures! More details can be found in my master thesis
+https://www.hmilch.net/h/master.html
+or on wikipedia
+https://en.wikipedia.org/wiki/Emissivity
+
 # Java-Version
 You can find a JAVA-Port at https://github.com/jonathanschilling/irb
